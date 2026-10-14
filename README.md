@@ -6,15 +6,14 @@ Instead of surface-level prompt guessing, I design and deploy a custom programma
 
 ---
 
-### 🎛️ Active Reference Vulnerability Frameworks
-My public repositories feature formalized **Boundary Route Matrices** used to track, triage, and map verified system logic deviations (`LOCAL_DEVIATION`) across distinct AI agent environments:
-
-*   **`browser-use-agent-matrices`**: Mapping cross-domain iframe state blindness, security watchdog bypassing, and cookie/token data exfiltration channels in cloud browser automation runtimes.
-*   **`smolagents-agent-matrices`**: Auditing execution isolation parameters inside Python sandboxes, managing runtime tool-call privileges, and hardening the **Model Context Protocol (MCP)** boundary layer.
-*   **`dify-agent-route-matrices`**: Evaluating multi-agent routing configurations, workspace permission mapping, and context leaks inside complex Enterprise RAG architectures.
 
 ---
 
+### 🔬 Threat Modeling & Methodology
+My automated red-team harness structures vulnerability logging and security analytics to map seamlessly back to major industry safety frameworks:
+*   **Architectural Security**: Systematic component checking based on **STRIDE** and **PASTA** methodologies applied directly to non-human identities (agents, MCP servers, and API gateways).
+*   **Tactics & Taxonomies**: Attack sequencing aligned with the **MITRE ATLAS** matrix and **OWASP Top 10 for LLMs / Agentic Threat Guidance**.
+*   **Telemetry Oracles**: Custom automation scripts monitoring for excessive agency, multi-turn function-call abuse, and target state machine hijacking.
 
 ---
 
